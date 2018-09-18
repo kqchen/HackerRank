@@ -6,6 +6,14 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
+/* output of the staircase
+     #
+    ##
+   ###
+  ####
+ #####
+######
+*/
 
 // Complete the staircase function below.
 void staircase(int n) {
