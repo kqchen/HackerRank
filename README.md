@@ -1,0 +1,8 @@
+# HackerRank
+StairCase output:
+     #
+    ##
+   ###
+  ####
+ #####
+######
